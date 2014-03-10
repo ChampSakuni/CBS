@@ -2,12 +2,12 @@ package lib.binary;
 
 /**
  *
- * @author Champs
+ * @author Ayesha
  * 
  */
 
 class Binary {
-
+ 
   public Node root;
 
   public Binary insert(Book value) {
