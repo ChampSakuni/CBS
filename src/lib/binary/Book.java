@@ -7,7 +7,7 @@ package lib.binary;
 
 /**
  *
- * @author Champs
+ * @author Suyama
  *
  */
 public class Book {
